@@ -1,0 +1,16 @@
+h1{
+	font-style:uppercase;
+}
+form{
+	float:left;
+}
+
+div {
+	text-align: right;
+	line-height:25px ;
+}
+
+label{
+	float:left;
+	padding-right:5px;
+}
